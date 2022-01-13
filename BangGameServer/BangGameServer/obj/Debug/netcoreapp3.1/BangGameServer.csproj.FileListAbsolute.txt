@@ -1,0 +1,37 @@
+C:\Users\dlaeh\source\repos\BangGameServer\BangGameServer\bin\Debug\netcoreapp3.1\BangGameServer.exe
+C:\Users\dlaeh\source\repos\BangGameServer\BangGameServer\bin\Debug\netcoreapp3.1\BangGameServer.deps.json
+C:\Users\dlaeh\source\repos\BangGameServer\BangGameServer\bin\Debug\netcoreapp3.1\BangGameServer.runtimeconfig.json
+C:\Users\dlaeh\source\repos\BangGameServer\BangGameServer\bin\Debug\netcoreapp3.1\BangGameServer.runtimeconfig.dev.json
+C:\Users\dlaeh\source\repos\BangGameServer\BangGameServer\bin\Debug\netcoreapp3.1\BangGameServer.dll
+C:\Users\dlaeh\source\repos\BangGameServer\BangGameServer\bin\Debug\netcoreapp3.1\BangGameServer.pdb
+C:\Users\dlaeh\source\repos\BangGameServer\BangGameServer\obj\Debug\netcoreapp3.1\BangGameServer.csprojAssemblyReference.cache
+C:\Users\dlaeh\source\repos\BangGameServer\BangGameServer\obj\Debug\netcoreapp3.1\BangGameServer.AssemblyInfoInputs.cache
+C:\Users\dlaeh\source\repos\BangGameServer\BangGameServer\obj\Debug\netcoreapp3.1\BangGameServer.AssemblyInfo.cs
+C:\Users\dlaeh\source\repos\BangGameServer\BangGameServer\obj\Debug\netcoreapp3.1\BangGameServer.dll
+C:\Users\dlaeh\source\repos\BangGameServer\BangGameServer\obj\Debug\netcoreapp3.1\BangGameServer.pdb
+E:\source\repos\BangGameServer\BangGameServer\bin\Debug\netcoreapp3.1\BangGameServer.exe
+E:\source\repos\BangGameServer\BangGameServer\bin\Debug\netcoreapp3.1\BangGameServer.deps.json
+E:\source\repos\BangGameServer\BangGameServer\bin\Debug\netcoreapp3.1\BangGameServer.runtimeconfig.json
+E:\source\repos\BangGameServer\BangGameServer\bin\Debug\netcoreapp3.1\BangGameServer.runtimeconfig.dev.json
+E:\source\repos\BangGameServer\BangGameServer\bin\Debug\netcoreapp3.1\BangGameServer.dll
+E:\source\repos\BangGameServer\BangGameServer\bin\Debug\netcoreapp3.1\BangGameServer.pdb
+E:\source\repos\BangGameServer\BangGameServer\obj\Debug\netcoreapp3.1\BangGameServer.csprojAssemblyReference.cache
+E:\source\repos\BangGameServer\BangGameServer\obj\Debug\netcoreapp3.1\BangGameServer.csproj.CoreCompileInputs.cache
+E:\source\repos\BangGameServer\BangGameServer\obj\Debug\netcoreapp3.1\BangGameServer.AssemblyInfoInputs.cache
+E:\source\repos\BangGameServer\BangGameServer\obj\Debug\netcoreapp3.1\BangGameServer.AssemblyInfo.cs
+E:\source\repos\BangGameServer\BangGameServer\obj\Debug\netcoreapp3.1\BangGameServer.dll
+E:\source\repos\BangGameServer\BangGameServer\obj\Debug\netcoreapp3.1\BangGameServer.pdb
+E:\source\repos\BangGameServer\BangGameServer\obj\Debug\netcoreapp3.1\BangGameServer.genruntimeconfig.cache
+D:\Visual Studio 2019 Projects\BangGameServer\BangGameServer\bin\Debug\netcoreapp3.1\BangGameServer.exe
+D:\Visual Studio 2019 Projects\BangGameServer\BangGameServer\bin\Debug\netcoreapp3.1\BangGameServer.deps.json
+D:\Visual Studio 2019 Projects\BangGameServer\BangGameServer\bin\Debug\netcoreapp3.1\BangGameServer.runtimeconfig.json
+D:\Visual Studio 2019 Projects\BangGameServer\BangGameServer\bin\Debug\netcoreapp3.1\BangGameServer.runtimeconfig.dev.json
+D:\Visual Studio 2019 Projects\BangGameServer\BangGameServer\bin\Debug\netcoreapp3.1\BangGameServer.dll
+D:\Visual Studio 2019 Projects\BangGameServer\BangGameServer\bin\Debug\netcoreapp3.1\BangGameServer.pdb
+D:\Visual Studio 2019 Projects\BangGameServer\BangGameServer\obj\Debug\netcoreapp3.1\BangGameServer.csprojAssemblyReference.cache
+D:\Visual Studio 2019 Projects\BangGameServer\BangGameServer\obj\Debug\netcoreapp3.1\BangGameServer.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2019 Projects\BangGameServer\BangGameServer\obj\Debug\netcoreapp3.1\BangGameServer.AssemblyInfoInputs.cache
+D:\Visual Studio 2019 Projects\BangGameServer\BangGameServer\obj\Debug\netcoreapp3.1\BangGameServer.AssemblyInfo.cs
+D:\Visual Studio 2019 Projects\BangGameServer\BangGameServer\obj\Debug\netcoreapp3.1\BangGameServer.dll
+D:\Visual Studio 2019 Projects\BangGameServer\BangGameServer\obj\Debug\netcoreapp3.1\BangGameServer.pdb
+D:\Visual Studio 2019 Projects\BangGameServer\BangGameServer\obj\Debug\netcoreapp3.1\BangGameServer.genruntimeconfig.cache
